@@ -1,10 +1,5 @@
-# Jekyll | Help Center
-Simple and responsive Jekyll theme for help center.
-
-# Demo
-[Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
-
-![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
+# 코로나콕 공지사항
+현재는 notion으로 대체 운영중
 
 # Color theme
 edit in _config.yml
